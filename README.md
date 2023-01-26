@@ -1,0 +1,2 @@
+# rinku
+this my repo.
